@@ -7,4 +7,4 @@ def cm(feet=0, inches=0):
     return inches_to_cm + feet_to_cm
 
 
-print(cm(feet=5, inches=9))
+print(cm(feet=5, inches=9.5))
