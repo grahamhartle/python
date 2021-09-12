@@ -1,2 +1,4 @@
 # python
-🐍Python🐍 programming samples
+🐍Python🐍
+
+Learning to program
