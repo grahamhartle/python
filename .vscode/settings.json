@@ -1,8 +1,0 @@
-{
-  "python.linting.pylintEnabled": true,
-  "python.linting.enabled": true,
-  "editor.fontSize": 14,
-  "editor.fontFamily": "Hack Nerd Font Mono",
-  "editor.tabSize": 4,
-  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3"
-}
