@@ -1,7 +1,5 @@
-import sys
+names = ['Jeff', 'Gary', 'Jill', 'Samantha']
 
-print(sys.version)
-print(sys.executable)
-
-
-print("Hello World!")
+for name in names:
+    statement = ' '.join(['Hello there, ' + name])
+    print(statement)
