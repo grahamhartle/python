@@ -22,6 +22,6 @@
 # print(result)
 
 mylist = [1, 1, 3, 4, 5, 5, 5, 6]
-myset = set(mylist)
+my_set = set(mylist)
 
-print(len(mylist) - len(myset))
+print(len(mylist) - len(my_set))
