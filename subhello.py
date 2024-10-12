@@ -1,5 +1,0 @@
-print('Hello from Sublime')
-
-name = input('What is your name: ')
-
-print(f'Hello {name}')
