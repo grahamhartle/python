@@ -1,7 +1,7 @@
 """
 This program creates a number range from 1 to 99.
-If the number divides by 3 it prints 'bang'
 If the number divides by 5 it prints 'fizz'
+If the number divides by 3 it prints 'bang'
 If the number divides by 3 & 5 it prints 'fizz bang'
 """
 
